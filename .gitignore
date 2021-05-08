@@ -1,0 +1,5 @@
+config*.*
+event-log*.*
+performance-log*.*
+.vs*
+workspace.*

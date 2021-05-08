@@ -1,0 +1,19 @@
+{
+  "name": "balance-auto-earn-money-bot",
+  "version": "2.0.0",
+  "description": "",
+  "main": "bb.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "binance": "^1.3.5",
+    "ccxt": "^1.43.29",
+    "date-fns": "^2.21.1",
+    "express": "^4.17.1",
+    "lowdb": "^1.0.0",
+    "socket.io": "^4.0.0"
+  }
+}
